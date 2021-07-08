@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="371156d2-c264-4fea-b4bb-c91a7235a2d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/defaults/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/defaults/main.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meta/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/meta/main.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/molecule/default/converge.yml" beforeDir="false" afterPath="$PROJECT_DIR$/molecule/default/converge.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/molecule/default/molecule.yml" beforeDir="false" afterPath="$PROJECT_DIR$/molecule/default/molecule.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/molecule/default/verify.yml" beforeDir="false" afterPath="$PROJECT_DIR$/molecule/default/verify.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasks/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/main.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vars/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/vars/main.yml" afterDir="false" />
-    </list>
+    <list default="true" id="371156d2-c264-4fea-b4bb-c91a7235a2d3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +18,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TF_FMT" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -49,5 +42,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add files for kibana-role." />
+    <option name="LAST_COMMIT_MESSAGE" value="add files for kibana-role." />
   </component>
 </project>
